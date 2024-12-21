@@ -6,4 +6,4 @@
 
 <h1> Admin panel </h1>
 
-<img src="https://github.com/BRajendra10/Bootstrap/blob/984d650d5bf408998437be70cf343cce04ce290c/Admin-panel.png">
+<a href="https://admin-orbit.netlify.app/"> <img src="https://github.com/BRajendra10/Bootstrap/blob/984d650d5bf408998437be70cf343cce04ce290c/Admin-panel.png"> </a>
